@@ -174,13 +174,17 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-4">
                 <p className="text-darkWalnut/80">
-                  Not your average Data Scientist — I turn spreadsheets into strategies, numbers into narratives, and
-                  data noise into decisions. If it's data, I'll find the pattern.
+                  I'm Lakshmi Sruthi Anchula, a graduate student in Computer Science with a strong passion for Data
+                  Science and Data Engineering.
                 </p>
                 <p className="text-darkWalnut/80">
-                  From building machine learning pipelines to crafting real-time dashboards, I create solutions that are
-                  as efficient as they are insightful — powered by Python, R, SQL, and a serious love for clean,
-                  purposeful code.
+                  My interests lie in uncovering meaningful insights from data and building scalable data pipelines. I
+                  enjoy working with large datasets, cloud platforms, and modern data tools to solve real-world
+                  problems.
+                </p>
+                <p className="text-darkWalnut/80">
+                  I'm driven by continuous learning and collaboration, and I'm always looking for opportunities to apply
+                  my analytical and technical skills to impactful projects.
                 </p>
               </div>
               <div className="space-y-4">
@@ -214,7 +218,7 @@ export default function Home() {
                       <div className="text-xs text-darkWalnut/70">Aug 2024 - Dec 2025</div>
                     </div>
                     <div>
-                      <div className="font-medium">MNR Institute of Technology</div>
+                      <div className="font-medium">MLR Institute of Technology</div>
                       <div className="text-sm text-darkWalnut/80">Bachelor of Technology - BTech, Data Science</div>
                       <div className="text-xs text-darkWalnut/70">Dec 2020 - April 2024</div>
                     </div>
@@ -552,7 +556,7 @@ export default function Home() {
               <Card className="bg-ivoryCream border-mutedCaramel/30">
                 <CardHeader>
                   <CardTitle className="text-darkWalnut">Python for Data Science</CardTitle>
-                  <CardDescription className="text-darkWalnut/70">NTEL</CardDescription>
+                  <CardDescription className="text-darkWalnut/70">NPTEL</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-darkWalnut/80">DATA ANALYTICS WITH PYTHON</p>
